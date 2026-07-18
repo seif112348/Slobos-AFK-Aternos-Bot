@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "elf7o00l.aternos.me:59367",
+    "ip": "elf7o00l.aternos.me",
     "port": 59367,
-    "version": "26.2",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
